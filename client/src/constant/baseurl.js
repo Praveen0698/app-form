@@ -1,1 +1,1 @@
-export const baseUrl = "https://api.kvs-library-granthalaya.in";
+export const baseUrl = "https://api.recexam.in";
